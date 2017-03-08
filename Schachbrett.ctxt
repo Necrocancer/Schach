@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Schachbrett()
+comment1.params=
+comment1.target=void\ fensterAnzeigen()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=felder
+comment4.target=void\ addFelder(Felder)
+comment5.params=index\ farbe
+comment5.target=void\ felderSetColour(int,\ java.awt.Color)
+comment6.params=hell\ dunkel
+comment6.target=void\ schachbrettAnzeigen(java.awt.Color,\ java.awt.Color)
+numComments=7

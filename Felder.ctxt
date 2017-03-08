@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Felder()
+comment1.params=farbe
+comment1.target=void\ buttonSetColor(java.awt.Color)
+comment2.params=
+comment2.target=javax.swing.JButton\ getButton()
+numComments=3
